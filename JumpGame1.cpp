@@ -1,6 +1,6 @@
 class Solution {
 public:
-    
+    //sol
 
     bool Jump(int i, vector<int>& nums, vector<int>& ans){
         if(i >= nums.size() - 1){
